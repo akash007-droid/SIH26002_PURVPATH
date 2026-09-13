@@ -1,0 +1,6 @@
+vehicle_id,type,status,current_location,destination,cargo_category,cargo_item,quantity,unit
+NER-001,Truck,Active,Guwahati,Itanagar,Medicines,Essential Medicine Kits,500,units
+NER-002,Truck,Active,Shillong,Agartala,Food Supplies,Rice,2000,kg
+NER-003,Van,Inactive,Jorhat,Kohima,Medicines,Vaccine Doses,150,units
+NER-004,Truck,Active,Silchar,Imphal,Construction Materials,Cement,3000,kg
+NER-005,Van,Active,Agartala,Guwahati,Agricultural Produce,Vegetables,800,kg

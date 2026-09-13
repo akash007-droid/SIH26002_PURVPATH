@@ -1,0 +1,12 @@
+source,destination,distance,traffic
+Guwahati,Shillong,103,Medium
+Guwahati,Tezpur,180,Low
+Tezpur,Jorhat,170,Medium
+Jorhat,Itanagar,145,High
+Guwahati,Silchar,335,High
+Silchar,Agartala,290,Medium
+Shillong,Agartala,340,Low
+Guwahati,Kohima,460,Medium
+Kohima,Imphal,140,High
+Imphal,Silchar,270,Medium
+Jorhat,Kohima,310,Low

@@ -1,0 +1,4 @@
+incident_id,location,incident_type,severity
+INC-001,Guwahati-Tezpur,Traffic Congestion,Medium
+INC-002,Jorhat-Itanagar,Road Block,High
+INC-003,Kohima-Imphal,Weather Delay,Medium
