@@ -191,4 +191,5 @@ These upgrades are recommended before treating the dashboard's risk score as a p
 - A compact 🚨 emergency control reveals the North East helpline: +91 93211 27701.
 - Navigation remains page-based; the emergency control is intentionally compact so it does not alter the main dashboard layout.
 #   S I H 2 6 0 0 2 _ P U R V P A T H  
+ #   S I H 2 6 0 0 2 _ P U R V P A T H  
  
