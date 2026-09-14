@@ -697,7 +697,8 @@ def page_header(title, subtitle=None):
     ]
     for col, (label, path, icon) in zip(nav_cols, nav_items):
         with col:
-            st.page_link(path, label=f"{icon}  {label}")
+            st.page_link("pages/6_Analytics.py", label="Analytics")
+
 
     st.markdown("<div class='pp-shared-header-rule'></div>", unsafe_allow_html=True)
     st.markdown(f"<h1 class='pp-title'>{title}</h1>", unsafe_allow_html=True)
